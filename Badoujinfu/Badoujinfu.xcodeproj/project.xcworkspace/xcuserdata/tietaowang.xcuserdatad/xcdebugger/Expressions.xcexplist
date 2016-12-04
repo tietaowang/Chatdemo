@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ChatViewController.onSocket(AsyncSocket!, didReadData : NSData!, withTag : Int) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSData!)data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[myClass getData:]:AsyncSocket.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
